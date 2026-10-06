@@ -9,3 +9,4 @@ npm install && npm run dev
 Push to GitHub, import the repo at vercel.com/new (framework auto-detected as Next.js), click Deploy.
 Or: npx vercel
 # combo-picker
+# combo-picker
